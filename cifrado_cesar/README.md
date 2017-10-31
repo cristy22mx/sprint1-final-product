@@ -9,14 +9,17 @@ Encriptar
 5. Identificar el codigo ascii de la letra
 6. Aplicar la formula 
 6. Convertir esa posición a código ascii
-7. Mostrar nuevemente la letra.
+7. Convertir de codigo ascii a letra
+8. Mostrar nuevemente la letra en un nuevo array.
 
 Desencriptar
 
-1. Recorrer el array con un for, para localizar la posición y comparar if push
+1. Recorrer el array con un for, para localizar la posición y comparar, if push
 2. Identificar el codigo ascii de la letra
 3. Aplicar la formula 
 4. Convertir esa posición a código ascii
-5. Mostrar nuevemente la letra.
+5. Convertir el codigo ascii a letra
+6. Mostrar nuevemente la letra.
 
-![Diagrama]
+![Diagrama_flujo](https://ibb.co/joB42b)
+
