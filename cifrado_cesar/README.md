@@ -21,5 +21,5 @@ Desencriptar
 5. Convertir el codigo ascii a letra
 6. Mostrar nuevemente la letra.
 
-![Diagrama_flujo](https://ibb.co/joB42b)
+![Diagrama_flujo](https://image.ibb.co/fgGF8G/diagrama_flujo1.jpg)
 

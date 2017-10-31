@@ -6,4 +6,4 @@
  3.2 Si son impares pasarlos igual
 4. Sumar toda la cadena.
 5. El residuo de la suma debe dividirse entre 10, si es igual a 0 es una tarjeta válida.
-![Diagrama]https://ibb.co/nieVaw
+![Diagrama] https://image.ibb.co/j1cGFw/diagrama_flujo1.jpg
